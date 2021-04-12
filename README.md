@@ -10,5 +10,5 @@ A simple converter that takes an image and convert it to a simple file. This sim
 
 # Example:
   on windows, run <code>  java -jar .\img_conv.jar "\images\white_queen.png" </code> to see the cimg text file appears. </br>
-  or more specificilly: <code>  java -jar .\img_conv.jar [filepath] </code> Note: in windows you should start with "\picture.png" (\) if the picture is in the same directory as the JAR file. 
+  or more specificilly: <code>  java -jar .\img_conv.jar [filepath] </code> Note: in windows you should start with "\picture.png" (\\) if the picture is in the same directory as the JAR file. 
   
