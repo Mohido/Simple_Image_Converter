@@ -6,7 +6,9 @@ A simple converter that takes an image and convert it to a simple file. This sim
 2) open any terminal window and just run the jar file with the following command
 <code>java -jar img_converter.jar "path" </code>
 3) If you see a successful message on the terminal it means that the file has been converted successfully.
-
+4) Make Sure to have the latest JRE installed (Not the default windows version (1.8)).
 
 # Example:
-  on windows, run <code>  java -jar .\img_conv.jar "\images\white_queen.png" </code> to see the cimg text file appears.
+  on windows, run <code>  java -jar .\img_conv.jar "\images\white_queen.png" </code> to see the cimg text file appears. 
+  or more specificilly: <code>  java -jar .\img_conv.jar <FilePath> </code> Note: in windows you should start with "\picture.png" ('\') if the picture is in the same directory as the JAR file. 
+  
