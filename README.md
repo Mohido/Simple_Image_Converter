@@ -1,5 +1,6 @@
 # Simple_Image_Converter
 A simple converter that takes an image and convert it to a simple file. This simple program was made to help us implement the picture rendering in the chess engine we are developing with "Concurrent Clean Programming Language."
+Used in: https://github.com/Tariqo/Clean-Chess-Application 
 
 # How to use:
 1) make sure to have the JRE installed on your machine.
